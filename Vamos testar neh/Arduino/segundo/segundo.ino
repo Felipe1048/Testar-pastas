@@ -39,7 +39,7 @@ for(i=0;i<4;i++)led[i+10]=28-2*i;
 for(i=0;i<14;i++)pinMode(led[i], OUTPUT);
 
 //tempo=0;
-//tempo_restante=0;
+//tempo_restante=30;
 }
 
 
